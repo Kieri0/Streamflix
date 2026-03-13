@@ -122,3 +122,6 @@ streamflix/
 ├── streamflix.sql      # Base database schema
 └── streamflix_advanced.sql  # Triggers, stored procedures, events
 ```
+(sample)
+Homepage:
+<img width="1914" height="908" alt="image" src="https://github.com/user-attachments/assets/a1348fc4-47a4-4835-b36b-f9e57158be96" />
