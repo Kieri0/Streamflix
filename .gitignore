@@ -1,0 +1,35 @@
+# ── Uploaded media (user content — do not commit) ──────────────────────────
+uploads/thumbnails/*
+uploads/videos/*
+!uploads/thumbnails/.gitkeep
+!uploads/videos/.gitkeep
+
+# ── Keep the logo placeholder ───────────────────────────────────────────────
+!uploads/logo.png
+
+# ── Backup files ────────────────────────────────────────────────────────────
+*.bak
+*.bak.*
+
+# ── Old / duplicate source folder ───────────────────────────────────────────
+streamflix/
+
+# ── PHP environment & error logs ────────────────────────────────────────────
+php.ini
+php_errors.log
+error_log
+*.log
+
+# ── OS & editor junk ────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ── Misc project clutter ────────────────────────────────────────────────────
+FIX_UPLOAD_LIMIT.txt
+{php,css,api,admin,uploads
+dashboard.png
+info.php
