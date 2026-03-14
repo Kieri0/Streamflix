@@ -2,6 +2,10 @@
 
 A PHP/MySQL movie streaming web app with full admin panel, subscription management, and advanced database features.
 
+## Developers
+
+This web app was developed by Kent Kerbie Cabahit and Eugem John Llanos
+
 ## Features
 
 - **User Auth** — Register, login, logout with bcrypt passwords
